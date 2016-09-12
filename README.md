@@ -27,11 +27,11 @@ _Cassandra Culkins: CCulkins_
 
 ## Technologies Used
 
-_*JavaScript*_
-_*Bootstrap*_
-_*jQuery*_
-_*Mocha*_
-_*Chai*_
+*_JavaScript_
+*_Bootstrap_
+*_jQuery_
+*_Mocha_
+*_Chai_
 
 ### License
 
