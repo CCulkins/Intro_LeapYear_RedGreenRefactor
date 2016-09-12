@@ -27,7 +27,7 @@ _Cassandra Culkins: CCulkins_
 
 ## Technologies Used
 
-*_JavaScript_
+* JavaScript
 *_Bootstrap_
 *_jQuery_
 *_Mocha_
